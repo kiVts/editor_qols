@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.0
+Spawn tooltip shows fluid weight, empty mass, and vehicle dimensions.
+
 ## 0.1.0
 Smart Piping and Editor Settings Copy are now one mod, Editor QOLs. Each part can be switched off on its own in the
 settings. Turn off the old Smart Piping and Editor Settings Copy mods when you install this one.
