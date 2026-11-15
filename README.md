@@ -1,6 +1,10 @@
 # Editor QOLs
 
-[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX4RzunsxC)
+[![Join Discord](https://swml.kivts.net/brand/badges/dark/discord.svg)](https://discord.gg/bX4RzunsxC)
+[![Requires SWML](https://swml.kivts.net/brand/badges/dark/requires-swml.svg)](https://github.com/kiVts/swml/releases/latest)
+[![SWML website](https://swml.kivts.net/brand/badges/dark/website.svg)](https://swml.kivts.net/)
+[![GitHub releases](https://swml.kivts.net/brand/badges/dark/github.svg)](https://github.com/kiVts/editor_qols/releases)
+[![Support on Buy Me a Coffee](https://swml.kivts.net/brand/badges/dark/coffee.svg)](https://buymeacoffee.com/kivts)
 
 A few quality-of-life additions for the vehicle editor. Each one can be turned off on its own in the mod's settings.
 
@@ -18,9 +22,3 @@ This mod is released as a build only; source will become public at a later date.
 [Rotation Keybinds](https://github.com/kiVts/editor_rotation_rings)
 [Composite Tracer](https://github.com/kiVts/composite_tracer)
 [Performance Mod](https://github.com/kiVts/physics_fixes)
-
-Like what I do?
-
-<a href="https://buymeacoffee.com/kivts">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Buy Me a Coffee">
-</a>
