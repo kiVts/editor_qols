@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.1
+Pipe editor works on Stormworks v1.15.27.
+
 ## 0.2.0
 Spawn tooltip shows fluid weight, empty mass, and vehicle dimensions.
 
