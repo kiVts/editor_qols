@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.2
+Spawn tooltip no longer slows the editor; dimensions coloured by axis.
+
 ## 0.2.1
 Pipe editor works on Stormworks v1.15.27.
 
