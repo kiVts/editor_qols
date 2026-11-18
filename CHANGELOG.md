@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.1
+Build Time keeps counting when a vehicle is taken back to the workbench.
+
 ## 0.3.0
 Load and Save menu cards show each vehicle's build time; simpler settings.
 
