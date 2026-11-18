@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0
+Load and Save menu cards show each vehicle's build time; simpler settings.
+
 ## 0.2.2
 Spawn tooltip no longer slows the editor; dimensions coloured by axis.
 
